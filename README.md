@@ -12,7 +12,7 @@
 ```diff
 + [ SYSTEM ONLINE ] IT Undergraduate | Software Engineering Track
 - [ STATUS ] Actively Seeking Paid Internship Opportunities
-! [ MISSION ] Building Scalable Web Apps & AI-Driven Solutions
+! [ MISSION ] Building Scalable Web Apps & AI-Powered Solutions
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Computer+Vision+Enthusiast;Linux+Power+User;Problem+Solver)](https://git.io/typing-svg)
