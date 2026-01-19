@@ -107,7 +107,7 @@ Tech Stack: React.js | JavaScript | CSS3 | Netlify
 Impact: 🚀 100% uptime | Responsive design
 Status: [██████████] 100% - Live & Deployed
 ```
-**[→ View Repository](LINK_TO_REPO)** | **[→ Live Demo](PORTFOLIO_LINK)**
+**[→ View Repository](LINK_TO_REPO)** | **[→ Live Demo]([PORTFOLIO_LINK](https://soham-cyberport.netlify.app/))**
 
 ---
 
