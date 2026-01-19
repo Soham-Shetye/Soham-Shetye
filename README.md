@@ -107,7 +107,7 @@ Tech Stack: React.js | JavaScript | CSS3 | Netlify
 Impact: 🚀 100% uptime | Responsive design
 Status: [██████████] 100% - Live & Deployed
 ```
-**[→ View Repository](LINK_TO_REPO)** | **[→ Live Demo]([PORTFOLIO_LINK](https://soham-cyberport.netlify.app/))**
+**[→ View Repository](LINK_TO_REPO)** | **[→ Live Demo](https://soham-cyberport.netlify.app/)**
 
 ---
 
@@ -126,11 +126,11 @@ Status: [██████████] 100% - Completed
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soham-Shetye&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Shetye&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soham-Shetye&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
 
 </div>
 
@@ -159,8 +159,8 @@ echo "Establishing secure connection..."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([PORTFOLIO_LINK](https://soham-cyberport.netlify.app/))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://soham-cyberport.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soham-Shetye)
 
 ```bash
 [✓] Connection established. Ready for collaboration.
