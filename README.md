@@ -15,7 +15,7 @@
 ! [ MISSION ] Building Scalable Web Apps & AI-Driven Solutions
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Computer+Vision+Enthusiast;Linux+Power+User;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Computer+Vision+Enthusiast;Linux+Power+User;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,14 +28,14 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Soham"
         self.role = "IT Student | 2nd Year"
-        self.location = "Pimpri, Maharashtra, IN"
+        self.location = "Kudal, Maharashtra, IN"
         self.os = "Debian 12 Linux"
         self.current_mission = "Seeking paid internship opportunities"
-        self.interests = ["Full-Stack Development", "Computer Vision", "AI/ML"]
+        self.interests = ["Linux", "Computer Vision", "AI/ML"]
     
     def current_status(self):
         return {
-            "coding": "React.js & Advanced DBMS",
+            "coding": "React.js & DBMS",
             "building": "Automated Attendance System v2.0",
             "learning": "System Design & Architecture",
             "listening_to": "Lofi beats while debugging"
@@ -59,7 +59,7 @@ me.say_hi()
 languages=("Python" "Java" "C/C++" "JavaScript" "HTML5" "CSS3")
 web_mobile=("React.js" "PHP" "MySQL" "Flutter")
 ai_data=("OpenCV" "NumPy" "Pandas" "Data Analysis")
-tools=("Linux" "Git" "GitHub" "VS Code" "Docker")
+tools=("Linux" "Git" "GitHub" "VS Code" )
 
 echo "[*] Initializing skill matrix..."
 echo "[✓] All systems operational"
