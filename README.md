@@ -1,48 +1,49 @@
 # Hi there, I'm Soham! 👋
 
-### 👨‍💻 Aspiring Software Engineer | IT Undergraduate
-I am a 2nd-year IT student focused on building scalable web applications and AI-driven solutions. I am currently seeking a **Paid Internship** where I can apply my problem-solving skills in a professional environment.
+### 👨‍💻 2nd Year IT Student | Open Source Enthusiast | Linux Power User
+I am a passionate developer focused on building AI-driven solutions and secure web applications. Currently looking for a **Paid Web Development or Python Internship** to contribute to real-world projects.
 
-- 🛠️ **Current Focus:** Deepening my expertise in Full-Stack Web Development and Computer Vision.
-- 🐧 **OS Preference:** Power user of **Debian 12 Linux**.
-- 🔭 **Working on:** Enhancing my "Automated Attendance System" with advanced face recognition features.
-- 🌱 **Learning:** Currently diving into React.js and Advanced Database Management.
+- 🛠️ **Current Focus:** Full-Stack development and Computer Vision.
+- 🐧 **OS:** Exclusively using **Debian 12 Linux** for all development workflows.
+- 🔭 **Working on:** Refining an **AI Attendance System** using OpenCV and Python.
+- 🛡️ **Achievement:** Attended the **Cybersecurity Workshop at IIT Bombay (Dec 2025)**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Python, Core Java, C/C++, HTML5, CSS3, JavaScript |
-| **Web/Mobile** | React, PHP, MySQL, Flutter |
-| **AI/Data** | OpenCV, NumPy, Data Analysis |
-| **Tools/OS** | Linux (Debian 12), Git, GitHub, VS Code |
+**Languages & Web**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Tools & Environment**
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
-### 🏆 Featured Projects (Proof of Work)
+### 🏆 Featured Projects
 
-#### 🤖 [Automated Attendance System](LINK_TO_REPO)
-*Developed a real-time attendance system using **Python and OpenCV**. Implemented face recognition to automate manual entry processes, reducing errors by 40%.*
+#### 🤖 [Student Attendance + Face Recognition](LINK_TO_REPO)
+*A Python-based system using **OpenCV** to automate classroom attendance. Features real-time face detection and database logging.*
 
 #### 🌐 [Personal Portfolio Website](LINK_TO_REPO)
-*Designed and deployed a responsive portfolio using **React** to showcase my projects and technical journey. Hosted on Netlify for 100% uptime.*
+*Designed a responsive professional site using **React** and **PHP**. Optimized for speed and hosted on Netlify.*
 
 #### 📊 [AI Finance Chatbot](LINK_TO_REPO)
-*Built during the BCG X program, utilizing Python for financial data analysis and automated query responses.*
+*Built during the BCG X program; uses Python for financial data analysis and automated responses.*
 
 ---
 
 ### 📈 GitHub Stats
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shetye-Soham&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shetye-Soham&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Shetye-Soham&show_icons=true&theme=radical" alt="Soham's stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shetye-Soham&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/yourprofile](LINK)
-- **Email:** [yourname@email.com](mailto:yourname@email.com)
-- **Portfolio:** [yourportfolio.com](LINK)
+- 💼 **LinkedIn:** [linkedin.com/in/soham-shetye](LINK)
+- 📧 **Email:** [yourname@email.com](mailto:yourname@email.com)
+- 🚀 **Portfolio:** [yourportfolio.netlify.app](LINK)
 
-*“Passionate about writing clean code and solving real-world problems.”*
+*“Turning coffee into clean, scalable code.”*
