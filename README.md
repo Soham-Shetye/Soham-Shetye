@@ -35,8 +35,8 @@ I am a 2nd-year IT student focused on building scalable web applications and AI-
 ---
 
 ### 📈 GitHub Stats
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shetye-Soham&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shetye-Soham&layout=compact&theme=radical)
 
 ---
 
