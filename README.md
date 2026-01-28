@@ -82,12 +82,7 @@ echo "[✓] All systems operational"
 
 ---
 
-### 🎯 `$ ls -la ~/projects/featured/`
 
-```console
-drwxr-xr-x  3 soham soham 4096 Jan 19 2025 .
-drwxr-xr-x 15 soham soham 4096 Jan 19 2025 ..
-```
 
 #### 📁 `./automated-attendance-system/` 🤖
 ```yaml
