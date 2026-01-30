@@ -181,7 +181,7 @@ echo "Establishing secure connection..."
                 ||     ||
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Soham-Shetye&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 ```console
 soham@github:~$ echo "Thanks for visiting! Feel free to explore my repos 🚀"
